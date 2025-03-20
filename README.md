@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/SmilezReal/images/refs/heads/main/synxlong.png
+[alt text](https://raw.githubusercontent.com/SmilezReal/images/refs/heads/main/synxlong.png)
 
 API Documentation · Wiki · Bug Tracker
 
