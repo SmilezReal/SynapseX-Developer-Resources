@@ -1,4 +1,4 @@
-[alt text](https://raw.githubusercontent.com/SmilezReal/images/refs/heads/main/synxlong.png)
+![a](https://raw.githubusercontent.com/SmilezReal/images/refs/heads/main/synxlong.png)
 
 API Documentation · Wiki · Bug Tracker
 
